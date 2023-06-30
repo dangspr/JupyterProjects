@@ -23,19 +23,24 @@
 Repositório criado para meus projetos de análise de dados com Python no Jupyter.
 
 1) Case Vendas
-2) ...
+2) Cases Compras
 3) ...
 
 
 <!--layout-->
 ## 🚀  Tecnologias 
 - [x]  **PYTHON**
-- [x]  **JUPYTER**
 - [x]  **EXCEL**
 
 #### Ferramentas
 - [**VS CODE**]()
+- [**JUPYTER**]()
 
+## 🚀  Bibliotecas 
+- [x]  **PANDAS**
+- [x]  **PLOTLY**
+- [x]  **ANACONDA**
+- [x]  **NUMPY**
 <!--License session-->
 ## 📝 Licença
 ### Este projeto está sob a licença [MIT](./LICENSE).
